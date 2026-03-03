@@ -4,6 +4,7 @@ Collection courte d’exercices et de notebooks qui m’ont aidée à progresser
 
 ## Contenu
 - [learning/01_linear_algebra.ipynb](learning/01_linear_algebra.ipynb) : compression d’image avec SVD (nécessite `face.jpg`).
+- [exercises/basic_exercises-1_to_59.ipynb](exercises/basic_exercises-1_to_59.ipynb) : exercices basiques d’utilisation de numpy
 
 ## Environnement rapide
 ```bash
